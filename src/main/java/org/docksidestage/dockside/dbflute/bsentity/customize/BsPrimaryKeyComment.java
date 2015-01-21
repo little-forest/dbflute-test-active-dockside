@@ -116,8 +116,8 @@ public abstract class BsPrimaryKeyComment extends AbstractEntity implements Cust
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         if (_memberId == null) { return false; }

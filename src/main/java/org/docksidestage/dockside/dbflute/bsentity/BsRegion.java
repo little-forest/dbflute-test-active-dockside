@@ -98,8 +98,8 @@ public abstract class BsRegion extends AbstractEntity implements DomainEntity {
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         if (_regionId == null) { return false; }

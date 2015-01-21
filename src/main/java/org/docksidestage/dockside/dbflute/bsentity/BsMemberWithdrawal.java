@@ -138,8 +138,8 @@ public abstract class BsMemberWithdrawal extends AbstractEntity implements Domai
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         if (_memberId == null) { return false; }

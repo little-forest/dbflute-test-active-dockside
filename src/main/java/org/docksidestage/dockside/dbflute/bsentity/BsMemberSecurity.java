@@ -139,8 +139,8 @@ public abstract class BsMemberSecurity extends AbstractEntity implements DomainE
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         if (_memberId == null) { return false; }

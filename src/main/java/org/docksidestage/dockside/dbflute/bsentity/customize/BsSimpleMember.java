@@ -104,8 +104,8 @@ public abstract class BsSimpleMember extends AbstractEntity implements Customize
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         return false;

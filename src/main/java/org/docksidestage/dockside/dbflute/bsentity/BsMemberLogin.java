@@ -115,8 +115,8 @@ public abstract class BsMemberLogin extends AbstractEntity implements DomainEnti
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         if (_memberLoginId == null) { return false; }

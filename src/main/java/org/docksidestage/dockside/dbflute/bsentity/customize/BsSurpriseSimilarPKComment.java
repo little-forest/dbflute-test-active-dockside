@@ -114,8 +114,8 @@ public abstract class BsSurpriseSimilarPKComment extends AbstractEntity implemen
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         return false;

@@ -114,8 +114,8 @@ public abstract class BsCommonColumnMember extends AbstractEntity implements Cus
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         return false;

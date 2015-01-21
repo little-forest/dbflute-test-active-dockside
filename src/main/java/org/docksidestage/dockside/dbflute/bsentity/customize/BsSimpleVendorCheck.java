@@ -154,8 +154,8 @@ public abstract class BsSimpleVendorCheck extends AbstractEntity implements Cust
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         return false;

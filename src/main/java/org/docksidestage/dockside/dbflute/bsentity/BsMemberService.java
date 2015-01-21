@@ -136,8 +136,8 @@ public abstract class BsMemberService extends AbstractEntity implements DomainEn
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         if (_memberServiceId == null) { return false; }

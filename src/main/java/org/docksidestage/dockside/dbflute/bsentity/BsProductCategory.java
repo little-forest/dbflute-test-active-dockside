@@ -103,8 +103,8 @@ public abstract class BsProductCategory extends AbstractEntity implements Domain
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         if (_productCategoryCode == null) { return false; }

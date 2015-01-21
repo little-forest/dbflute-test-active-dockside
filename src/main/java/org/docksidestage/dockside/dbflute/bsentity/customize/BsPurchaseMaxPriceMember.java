@@ -104,8 +104,8 @@ public abstract class BsPurchaseMaxPriceMember extends AbstractEntity implements
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         return false;

@@ -102,8 +102,8 @@ public abstract class BsWithdrawalReason extends AbstractEntity implements Domai
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         if (_withdrawalReasonCode == null) { return false; }

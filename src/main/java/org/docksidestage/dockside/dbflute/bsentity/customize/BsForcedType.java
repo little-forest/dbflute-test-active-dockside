@@ -89,8 +89,8 @@ public abstract class BsForcedType extends AbstractEntity implements CustomizeEn
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         return false;

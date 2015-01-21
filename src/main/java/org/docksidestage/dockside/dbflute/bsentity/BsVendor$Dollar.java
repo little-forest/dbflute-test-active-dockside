@@ -95,8 +95,8 @@ public abstract class BsVendor$Dollar extends AbstractEntity implements DomainEn
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         if (_vendor$DollarId == null) { return false; }

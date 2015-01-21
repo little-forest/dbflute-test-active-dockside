@@ -90,8 +90,8 @@ public abstract class BsVendorIdentityOnly extends AbstractEntity implements Dom
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         if (_identityOnlyId == null) { return false; }

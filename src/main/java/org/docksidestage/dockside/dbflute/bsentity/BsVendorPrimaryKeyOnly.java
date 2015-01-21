@@ -90,8 +90,8 @@ public abstract class BsVendorPrimaryKeyOnly extends AbstractEntity implements D
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         if (_primaryKeyOnlyId == null) { return false; }

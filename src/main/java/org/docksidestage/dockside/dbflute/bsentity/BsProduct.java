@@ -144,8 +144,8 @@ public abstract class BsProduct extends AbstractEntity implements DomainEntity, 
     }
 
     // ===================================================================================
-    //                                                                        Key Handling
-    //                                                                        ============
+    //                                                                         Primary Key
+    //                                                                         ===========
     /** {@inheritDoc} */
     public boolean hasPrimaryKeyValue() {
         if (_productId == null) { return false; }
