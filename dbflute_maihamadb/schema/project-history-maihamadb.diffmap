@@ -1,4 +1,111 @@
 map:{
+    ; 2020/10/27 09:30:34 = map:{
+        ; diffDate = 2020/10/27 09:30:34
+        ; tableCount = map:{
+            ; next = 24
+            ; previous = 0
+        }
+        ; diffAuthor = y-komori
+        ; diffGitBranch = master
+        ; tableDiff = map:{
+            ; MEMBER = map:{
+                ; tableName = MEMBER
+                ; diffType = ADD
+            }
+            ; MEMBER_ADDRESS = map:{
+                ; tableName = MEMBER_ADDRESS
+                ; diffType = ADD
+            }
+            ; MEMBER_FOLLOWING = map:{
+                ; tableName = MEMBER_FOLLOWING
+                ; diffType = ADD
+            }
+            ; MEMBER_LOGIN = map:{
+                ; tableName = MEMBER_LOGIN
+                ; diffType = ADD
+            }
+            ; MEMBER_SECURITY = map:{
+                ; tableName = MEMBER_SECURITY
+                ; diffType = ADD
+            }
+            ; MEMBER_SERVICE = map:{
+                ; tableName = MEMBER_SERVICE
+                ; diffType = ADD
+            }
+            ; MEMBER_STATUS = map:{
+                ; tableName = MEMBER_STATUS
+                ; diffType = ADD
+            }
+            ; MEMBER_WITHDRAWAL = map:{
+                ; tableName = MEMBER_WITHDRAWAL
+                ; diffType = ADD
+            }
+            ; PRODUCT = map:{
+                ; tableName = PRODUCT
+                ; diffType = ADD
+            }
+            ; PRODUCT_CATEGORY = map:{
+                ; tableName = PRODUCT_CATEGORY
+                ; diffType = ADD
+            }
+            ; PRODUCT_STATUS = map:{
+                ; tableName = PRODUCT_STATUS
+                ; diffType = ADD
+            }
+            ; PURCHASE = map:{
+                ; tableName = PURCHASE
+                ; diffType = ADD
+            }
+            ; PURCHASE_PAYMENT = map:{
+                ; tableName = PURCHASE_PAYMENT
+                ; diffType = ADD
+            }
+            ; REGION = map:{
+                ; tableName = REGION
+                ; diffType = ADD
+            }
+            ; SERVICE_RANK = map:{
+                ; tableName = SERVICE_RANK
+                ; diffType = ADD
+            }
+            ; SUMMARY_PRODUCT = map:{
+                ; tableName = SUMMARY_PRODUCT
+                ; diffType = ADD
+            }
+            ; SUMMARY_WITHDRAWAL = map:{
+                ; tableName = SUMMARY_WITHDRAWAL
+                ; diffType = ADD
+            }
+            ; VENDOR_$_DOLLAR = map:{
+                ; tableName = VENDOR_$_DOLLAR
+                ; diffType = ADD
+            }
+            ; VENDOR_CHECK = map:{
+                ; tableName = VENDOR_CHECK
+                ; diffType = ADD
+            }
+            ; VENDOR_IDENTITY_ONLY = map:{
+                ; tableName = VENDOR_IDENTITY_ONLY
+                ; diffType = ADD
+            }
+            ; VENDOR_PRIMARY_KEY_ONLY = map:{
+                ; tableName = VENDOR_PRIMARY_KEY_ONLY
+                ; diffType = ADD
+            }
+            ; VENDOR_THE_LONG_AND_WINDING_TABLE_AND_COLUMN = map:{
+                ; tableName = VENDOR_THE_LONG_AND_WINDING_TABLE_AND_COLUMN
+                ; diffType = ADD
+            }
+            ; VENDOR_THE_LONG_AND_WINDING_TABLE_AND_COLUMN_REF = map:{
+                ; tableName = VENDOR_THE_LONG_AND_WINDING_TABLE_AND_COLUMN_REF
+                ; diffType = ADD
+            }
+            ; WITHDRAWAL_REASON = map:{
+                ; tableName = WITHDRAWAL_REASON
+                ; diffType = ADD
+            }
+        }
+    }
     ; 2019/12/30 20:03:21 = map:{
         ; diffDate = 2019/12/30 20:03:21
         ; tableCount = map:{
